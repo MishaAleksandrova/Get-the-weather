@@ -38,3 +38,9 @@ This is a simple web application built with **Django** and styled using **Bootst
    ```bash
    git clone https://github.com/your-username/django-weather-app.git
    cd django-weather-app
+   
+## 📸 Screenshot
+
+Below is a screenshot of the Django Weather App interface:
+
+![Weather App Screenshot](weather/screenshots/weather_project_screenshot.png)
