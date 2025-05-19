@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌦️ Django Weather App
 
 This is a simple web application built with **Django** and styled using **Bootstrap**, which allows users to check real-time weather information for any city using the **OpenWeatherMap API**.
@@ -39,6 +38,3 @@ This is a simple web application built with **Django** and styled using **Bootst
    ```bash
    git clone https://github.com/your-username/django-weather-app.git
    cd django-weather-app
-=======
-Remote GitHub README content
->>>>>>> origin/main
